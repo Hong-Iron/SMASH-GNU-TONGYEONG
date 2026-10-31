@@ -1,0 +1,113 @@
+{
+  "code": "GNU-TONGYEONG",
+  "title": "SMASH GNU TONGYEONG",
+  "school": "경상국립대",
+  "fullName": "경상국립대학교",
+  "campusName": "경상국립대학교 통영캠퍼스",
+  "tagline": "경상국립대를 부셔 (시험기간 스트레스 해소)",
+  "description": "경상국립대학교 통영캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 경상국립대학교 통영캠퍼스 3D 화면과 SMASH GNU TONGYEONG 제목",
+  "url": "https://hong-iron.github.io/SMASH-GNU-TONGYEONG/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 474265528
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        34.8395204,
+        128.3984191
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 학생생활관 남쪽의 이 자리는 사진에서 나무만 빽빽하고 지붕이 보이지 않는다."
+    },
+    {
+      "at": [
+        34.8380597,
+        128.3998685
+      ],
+      "n": "극저온 기자재평가센터",
+      "why": "항공사진에 없음 — 체육관과 척양관 사이의 이 자리는 잔디밭과 나무 줄뿐이고 건물이 없다."
+    },
+    {
+      "at": [
+        34.8383681,
+        128.3984096
+      ],
+      "n": "수위실",
+      "why": "항공사진에 없음 — 조선해양기자재센터 북쪽의 이 자리는 숲 그늘 속 빈 땅이고 지붕 모양이 보이지 않는다."
+    },
+    {
+      "at": [
+        34.8373124,
+        128.4002231
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 운동장 북쪽 가장자리의 낮은 콘크리트 계단일 뿐 벽이나 지붕이 있는 건물이 아니다."
+    },
+    {
+      "at": [
+        34.8364163,
+        128.4017619
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 남동쪽 모퉁이 광장의 화단과 나무 자리로 건물이 없다."
+    },
+    {
+      "at": [
+        34.8393577,
+        128.3985505
+      ],
+      "n": "변전실",
+      "why": "항공사진에 없음 — 학생생활관 앞 광장 가장자리의 나무와 포장 바닥 자리로 변전실 건물이 보이지 않는다."
+    }
+  ],
+  "look": {
+    "해양생물교육연구센터": {
+      "style": "concrete",
+      "wall": "#9a9a94",
+      "glass": "#1f2c30",
+      "frame": "#8a9092"
+    },
+    "12동 경상대학교 도서관": {
+      "style": "ribbon",
+      "wall": "#c8c7c9",
+      "glass": "#3e5f80",
+      "frame": "#4f7699"
+    },
+    "11동 해양과학관": {
+      "style": "glass",
+      "wall": "#5a86b4",
+      "glass": "#1f5a85",
+      "frame": "#a6bccf"
+    },
+    "수산가공관": {
+      "style": "brick",
+      "wall": "#9c6656",
+      "glass": "#2a3a40",
+      "frame": "#e8e8e4"
+    },
+    "수산관": {
+      "style": "brick",
+      "wall": "#c2a68f",
+      "glass": "#2c2a28",
+      "frame": "#4b4137"
+    },
+    "학생생활관": {
+      "style": "dorm",
+      "wall": "#cbb8a9",
+      "glass": "#5f7a7a",
+      "frame": "#e07a3a"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
